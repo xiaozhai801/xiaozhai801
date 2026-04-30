@@ -1,10 +1,11 @@
 ### Hi I`m  宅宅宅👋
 
+[![博客](https://img.shields.io/badge/Blog-博客-%231677ff?style=flat)](https://xiaozhai801.github.io/blog/)
+[![B站](https://img.shields.io/badge/BiliBili-B站-%23fb7299?style=flat)](https://space.bilibili.com/452972953)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=xiaozhai801&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=xiaozhai801&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=default_repocard)
 
-一只纯业余的编程爱好者  *Amateur programming enthusiast*
-
-- 想要了解更多，请关注我的[博客](https://xiaozhai801.github.io/blog)
+**一只纯业余的编程爱好者**
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
