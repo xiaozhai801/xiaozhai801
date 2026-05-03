@@ -17,7 +17,7 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-**Latest Blog Posts**
+**最新博客文章**
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Pages 配置自定义域名 + Cloudflare 加速](https://zhaizz.top/02.指南/03.前端/01.github-page-custom.html)
 - [MySQL 8.4.9 的安装](https://zhaizz.top/02.指南/02.软件安装/01.mysql-install.html)
