@@ -19,7 +19,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [为 VitePress 网站添加追番功能](https://blog.zhaizz.top/02.指南/03.前端/05.vitepress-plugin-bangumi)
 - [Cloudflare 根域名重定向到 WWW 域名](https://blog.zhaizz.top/02.指南/03.前端/04.cf-domain-redirect)
 - [记录一些有趣的项目](https://blog.zhaizz.top/03.备忘录/03.project)
-- [使用 Cloudflare 配置优选 IP](https://blog.zhaizz.top/02.指南/03.前端/03.cf-ip-opt)
 <!-- BLOG-POST-LIST:END -->
